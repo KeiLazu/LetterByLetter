@@ -7,7 +7,7 @@ i just had a mindblown there
 
 first update: 
 
-- can trigger by empty <s>time and space<s> i mean non button
+- can trigger by empty <s>time and space</s> i mean non button
 
 
 references:
