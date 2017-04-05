@@ -10,7 +10,7 @@ What's New:
 
 - can trigger by empty <s>time and space</s> i mean non button
 
-- <s>TSUNDERE LIIIINES~</s> vn style is "a little bit" odd now but i'll fix that later, but basically it's functioning
+- <s>TSUNDERE LIIIINES~ vn style is "a little bit" odd now but i'll fix that later, but basically</s> it's functioning now
 
 - really really really vn lookalike, <s>no extra references cause of <b>frustation</b></s> look VNStyleV2 for detail
 
