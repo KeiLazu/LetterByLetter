@@ -12,9 +12,17 @@ What's New:
 
 - <s>TSUNDERE LIIIINES~</s> vn style is "a little bit" odd now but i'll fix that later, but basically it's functioning
 
-- really really really vn lookalike.....<s>no extra references cause of <b>frustation</b></s>
+- really really really vn lookalike, <s>no extra references cause of <b>frustation</b></s> look VNStyleV2 for detail
 
-look VNStyleV2 for detail
+---------------
+
+Next:
+
+- <b>BOLD</b>, <i>Italic</i>, <u>Underline</u>, color text will be implemented.....i'm still crawling lol
+
+- hold a bit after the text all deployed
+
+- also a settings for speed
 
 ---------------
 
@@ -30,4 +38,4 @@ references:
 
 - my own game: QR:RoW data files
 
-- <s>my tears and frustation</s>
+- <s>my tears and frustation in 2 days</s>
