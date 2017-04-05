@@ -7,7 +7,7 @@ i'll work this on both Unity and Android Studio, since they not treated the same
 
 # What's New: 
 
-- can trigger by empty <s>time and space</s> i mean non button
+- can trigger by empty <s>time and space</s> i mean non button (i mean emptyObject with added button and image)
 
 - <s>TSUNDERE LIIIINES~ vn style is "a little bit" odd now but i'll fix that later, but basically</s> it's functioning now
 
