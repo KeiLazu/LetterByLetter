@@ -273,10 +273,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 917591017}
-  - component: {fileID: 917591019}
-  - component: {fileID: 917591018}
   - component: {fileID: 917591021}
   - component: {fileID: 917591020}
+  - component: {fileID: 917591019}
+  - component: {fileID: 917591018}
   m_Layer: 5
   m_Name: PressToContinue
   m_TagString: Untagged
@@ -310,10 +310,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 917591016}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d6b4d5c4a0c45b45ae673ab6fb6b639, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a3657dc70531fb4c9cc93207ed2af85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ImTalking: {fileID: 1405309285}
+  txt_TestSubject: {fileID: 1405309285}
 --- !u!114 &917591019
 MonoBehaviour:
   m_ObjectHideFlags: 0
